@@ -45,3 +45,7 @@ We can see that the two models (rbf with default gamma, and poly with degree 2) 
 Part h)
 
 Overall the Linear SVC gives the best results with a unique 'best' value for c of 3.38 and corresponding accuracy of around 80%.
+
+*Useful readings:*
+
+Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. 2014. An Introduction to Statistical Learning: with Applications in R. Springer Publishing Company, Incorporated.

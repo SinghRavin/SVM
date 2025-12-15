@@ -1,5 +1,7 @@
 # Support Vector Machines
 
+This project implements the support vector machine algorithm on a publicly available dataset. It tackles with the problem 9.5, 9.7 and 9.8 in the book "Introduction to Statistical Learning with applications in R" by Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
+
 **Problem 9.5**
 
 Part i)
